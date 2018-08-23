@@ -2,6 +2,7 @@
 This is the code I wrote in R to merge, clean and analyse the data from 80 participants that took part in my Python-based computer experiments.
 
 Click on the link above titled "Click to View Data Cleaning Code" to see the code for data cleaning.
+
 There is also a link to look at the code used for analysing the data - please do check it out.
 
 # Background
