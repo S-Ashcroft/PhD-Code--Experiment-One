@@ -3,7 +3,7 @@ This is the code I wrote in R to merge, clean and analyse the data from 80 parti
 
 Click on the link above titled "Click to View Data Cleaning Code" to see the code for data cleaning.
 
-[data cleaning code](Click to View Data Cleaning Code.r)
+[link](https://github.com/S-Ashcroft/PhD-Code--Experiment-One/blob/master/Click%20to%20View%20Data%20Cleaning%20Code.r)
 
 There is also a link to look at the code used for analysing the data - please do check it out.
 
