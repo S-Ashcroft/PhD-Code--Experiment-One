@@ -1,5 +1,5 @@
 # PhD Code - Experiment One
-This is the code I wrote in R to merge, clean and analyse the data from 80 participants that took part in my Python-based computer experiments.
+This is the code I wrote in R to merge, clean and analyse the data from 80 participants that took part in my first Python-based computer experiment.
 
 Click [here](https://github.com/S-Ashcroft/PhD-Code--Experiment-One/blob/master/Click%20to%20View%20Data%20Cleaning%20Code.r) to see the code for data cleaning.
 
