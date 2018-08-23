@@ -1,7 +1,7 @@
-
+```r
 ### This is the R script written by Sam Ashcroft to import, merge, clean and
 ### prepare for analysis the results of a Python-based computer experiment used in Sam's PhD
-
+```
 # As background, around 80 participants have taken part in a computer experiment
 # The experiment requires participants to be trained and tested on relationships between stimuli
 # This is quite similar to some kinds of modern brain-training
