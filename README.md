@@ -3,7 +3,7 @@ This is the code I wrote in R to merge, clean and analyse the data from 80 parti
 
 Click [here](https://github.com/S-Ashcroft/PhD-Code--Experiment-One/blob/master/Click%20to%20View%20Data%20Cleaning%20Code.r) to see the code for data cleaning.
 
-There is also a link to look at the code used for analysing the data - please do check it out.
+There will soon be a link to the code used for analysing the data.
 
 # Background
 I am doing a PhD in the analysis of human behaviour, largely through the use of computer experiments. Without bogging you down with archaic technical details, I generally study how people 'make sense of things' and particularly how they respond when things don't make sense.
